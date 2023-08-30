@@ -1,14 +1,14 @@
 # Описание программы
 При создании данной системы был использован фреймворк Flask основан на языке программирования Python.  Для создания интерфейса используется фреймворк «Bootstrap». Данные регистрации и авторизации пользователей хранятся в базе данных. Для создания базы данных использовалась библиотека "SQLAlchemy". База данных находится в папке «instance» файл «users.db».
 # Главная страница сайта <br />
-![1](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/c161a821-e241-46a5-a1d6-62a368fb5081)
+![01](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/2c0bda54-64f1-4caa-9b58-56e0e6086a46)
 # О системе <br />
-![2](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/1facf369-06c7-4ae4-b45d-6acf85723e33)
+![02](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/7d5318aa-4f45-4ad3-a009-5a400de16761)
 # Страница регистрации пользователя <br />
-![3](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/d23295ee-930c-4dfd-9a15-6f8d396914f0)
+![03](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/b326a1af-5874-4d89-9a54-fb0dfb1e2de0)
 # Страница авторизации пользователя <br />
-![4](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/73c6ce49-8da3-4d01-ae47-5180e3504c3f)
+![04](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/4f8c7610-c9aa-4bca-9a9c-0f59d4605a74)
 # Страница с тестом <br />
-![5](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/25153799-9028-4dcd-9f4d-6b1cdc79d782)
+![05](https://github.com/Fetkulingr/test-for-students.ru/assets/103204349/33c7549b-c8c8-421e-9f93-941c23cfc5e8)
 # Инструкция по использованию
 Для запуска нужно сохранить всю папку с проектом, затем нужно запустить файл "main.py" перейти по адресу: http://127.0.0.1:5000
